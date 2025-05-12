@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [HardHaTe][LinkedIn] 👋 
+# Hi there, I'm Jesse - aka [HardHaTe]👋 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
