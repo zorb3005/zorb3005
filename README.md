@@ -14,7 +14,7 @@ Kubernetes      0 secs          ░░░░░░░░░░░░░░░░
 
 "Lisp is not a language, but a building material." — Alan Kay 🥺👉👈
 
-🚧 **my todoist stats:**
+🚧 **my project statistics:**
 <!-- TODO-IST:START -->
 🏆  8,004 Karma Points           
 🌸  Completed 0 tasks today           
