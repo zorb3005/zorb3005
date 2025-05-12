@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Jesse - aka [HardHaTe][LinkedIn] 👋 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
-<!--
-**zorb3005/zorb3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+Python          18 hrs 58 mins  ██████████████████████▓░░   90.80 %
+FastAPI         1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+PostgreSQL      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Docker          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Kubernetes      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
 
-Here are some ideas to get you started:
+<!--END_SECTION:waka-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Lisp is not a language, but a building material." — Alan Kay 🥺👉👈
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
