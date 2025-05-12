@@ -12,12 +12,12 @@ Kubernetes      0 secs          ░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-"Lisp is not a language, but a building material." — Alan Kay 🥺👉👈
+"Lisp is not a language, but a building material." — Alan Kay 🦾
 
 🚧 **my project statistics:**
 <!-- TODO-IST:START -->
 🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
+🪐  Completed 0 tasks today           
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
