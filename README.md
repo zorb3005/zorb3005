@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [HardHaTe]👋 
+# Hi there, I'm Daniil - aka [HardHaTe]👋 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
